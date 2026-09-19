@@ -1,3 +1,5 @@
+Jira: https://techno-team-m6oj7xpz.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
+
 # Desktop Pixel Pets — Agile Product Backlog
 
 ## Product Vision
