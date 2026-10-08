@@ -3,6 +3,9 @@
 [node name="UI_Manager" type="CanvasLayer" unique_id=1103311032]
 editor_description = "Root Node"
 
+[node name="Sprites" type="Node2D" parent="." unique_id=819416667]
+position = Vector2(213, 980)
+
 [node name="MainInterface" type="Control" parent="." unique_id=976343743]
 layout_mode = 3
 anchor_right = 1.667
@@ -15,8 +18,10 @@ size_flags_horizontal = 3
 size_flags_vertical = 3
 size_flags_stretch_ratio = 0.0
 
-[node name="Sprites" type="Node2D" parent="MainInterface" unique_id=819416667]
-position = Vector2(213, 980)
+[node name="TopBar" type="HBoxContainer" parent="MainInterface" unique_id=858210226]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
 
 [node name="Tasks" type="PanelContainer" parent="MainInterface" unique_id=563442174]
 layout_mode = 1
