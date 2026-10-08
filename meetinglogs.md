@@ -1,5 +1,29 @@
-## 01-10-2026
-Kohviku sess (Mona & Johanna)
+## 08-10-2026
+Kõne\
+Osalejad: Mona, Johanna
+
+### Kokkuvõte
+Otsustasime, et liigume edasi **Godot**'i ning **GDScript**'iga\
+Godotile sai lisatud [Godot Git plugin](https://github.com/godotengine/godot-git-plugin/wiki/Git-plugin-v3)\
+Otsustasime nime osas ära, nimeks jääb nüüdsest: **QuestPets**\
+Jira Taskid, Storyd, Spike'id on uuendatud plaani põhjal ümber struktureeritud\
+Jätame max. taskide arvuks alustuseks 6 (alati saab hiljem muuta)
+
+### Vaja valik teha
+Kas taskid ja loomad on: 
+
+- **ühes fullscreen aknas always-on-top** (peab saama transparent osa alt teistes rakendustes tööd teha, ei tohi segada muid tegevusi)
+
+või 
+
+- **1 aken taskide jaoks ning loomad tulevad subwindow'itena** (ilma taskbarile aknaid juurde tekitamata)
+
+
+---
+
+## 01-10-2026 
+Kohviku sess\
+Osalejad: Mona, Johanna
 
 ### Tegevusplaan
 - Mida päriselt vaja on?
